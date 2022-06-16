@@ -67,7 +67,7 @@ def main():
                                                 since_id=most_recent_tweet_ID,
                                                 include_rts=False,
                                                 tweet_mode="extended")
-
+ 
         words_since_last_update = []
 
         # NOTE: can replace with exception handling later
